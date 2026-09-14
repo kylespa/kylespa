@@ -13,7 +13,4 @@
  </div>
  <br>
 
-Hi, I'm Kyle!
-<br>
-<br>
-I use a variety of languages such as C/C++, Java, Python, Swift, and TypeScript, but I primarily write personal projects in JS/TS.
+Hi, I'm Kyle! I use a variety of languages such as C/C++, Java, Python, Swift, and TypeScript, but I primarily write personal projects in JS/TS.
