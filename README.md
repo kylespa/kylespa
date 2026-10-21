@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/static/v1?label=Website&message=soda.gg&style=for-the-badge&color=e6e6e6" />
   </a>
   <a href="https://twitter.com/kspa_">
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=@kylespadaro%230001&style=for-the-badge&logo=twitter&color=1DA1F2" />
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=@kylespadaro&style=for-the-badge&logo=x&color=1DA1F2" />
   </a>
     <a href="https://bsky.app/profile/soda.gg">
     <img src="https://img.shields.io/static/v1?label=Bluesky&message=@soda.gg&style=for-the-badge&logo=bluesky&color=0f73ff" />
