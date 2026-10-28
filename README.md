@@ -15,4 +15,4 @@
 
 Hi, I'm Kyle! I use a variety of languages such as C/C++, Java, Python, Swift, and TypeScript, but I primarily write personal projects in JS/TS.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylespa&show_icons=true&theme=radical&title_color=4abee7&text_color=ffffff&icon_color=4abee7&&hide_border=true&bg_color=0d1117&layout=compact" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=kylespa&show_icons=true&theme=radical&title_color=4abee7&text_color=ffffff&icon_color=4abee7&&hide_border=true&bg_color=0d1117&layout=compact" />
